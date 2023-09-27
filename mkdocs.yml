@@ -1,0 +1,8 @@
+site_name: "nextTest"
+site_description: "seguundo teste"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
